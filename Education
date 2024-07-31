@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <img src="./profile.png"
+             width="150" alt="profile picture of 5 out of 10 male">
+       
+    <h2>Education</h2>
+        <h4>Bachelor of Communication, New York University, New York</h4>
+        <h5>August 2016 - August 2021</h5>
+        <ul>
+        <li>Working towards a Communications Degree</li>
+        </ul>
+        <h4>High School Diploma, Regis High School, New York</h4>
+        <h5>September 2012 - May 2016</h5>
+        <ul>
+           <li>Graduated with High Honors</li>
+        </ul>
+</html>

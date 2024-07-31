@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <img src="./profile.png"
+             width="150" alt="profile picture of 5 out of 10 male">
+       
+    <h2>Employment History</h2>
+        <h4>Sales Associate, Big Apple Bookstore, New York</h4>
+        <h5>September 2015 - June 2018</h5>
+        <ul>
+        <li>Greeted customers and assisted them with finding books</li>
+        <li>Offered literary suggestions based on the needs and desires of the customer</li>
+        <li>Followed directions from my Supervisor and managed projects with precision</li>
+        <li>Organized books and adhered to the policies and mission of the bookstore</li>
+    </ul>
+</html>
